@@ -55,5 +55,5 @@ A curated gallery of hands-on cybersecurity projects, demonstrating expertise in
 - Each project includes a README with setup instructions and highlights.
 
 ---
-
+Each project will uploaded upon completion from top to least! Thank you for passing by
 > For code, collaboration, or questions, connect via [GitHub](https://github.com/Jcyber-protect)
